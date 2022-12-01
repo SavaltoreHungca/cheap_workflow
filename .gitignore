@@ -1,0 +1,45 @@
+HELP.md
+needUpdate.sql
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+docker/
+configs/
+logs/
+data-clean/
+*.log
+minfo.dump
+mysqlvolume
+comn-web
+docker/backup
+docker/cat
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+
+### mac ###
+.DS_Store
+doc/%  
